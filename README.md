@@ -1,11 +1,15 @@
 # 🎊🎊TVBOXOSC开源项目APP及相关配置接口等等🎊🎊
 ## TVBox-o0HalfLife0o 
-![Build](https://shields.io/github/workflow/status/o0HalfLife0o/TVBoxOSC/Test?logo=github&label=Build)
+- tvbox-2
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/TVBoxOSC)
 [![Download](https://img.shields.io/github/v/release/o0HalfLife0o/TVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/o0HalfLife0o/TVBoxOSC/releases/latest) 
 [![Total](https://shields.io/github/downloads/o0HalfLife0o/TVBoxOSC/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
 - [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC)
 - [o0HalfLife0o仓库](https://github.com/o0HalfLife0o?tab=repositories)
+- AlphaTV
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/FongMi_TV)
+[![Download](https://img.shields.io/github/v/release/o0HalfLife0o/AlphaTV?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/o0HalfLife0o/AlphaTV/releases/latest) 
+[![Total](https://shields.io/github/downloads/o0HalfLife0o/AlphaTV/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/o0HalfLife0o/AlphaTV/releases)
 ## 
 ## TVBOX热门&仓库&任务
 - [TVBox官仓](https://github.com/CatVodTVOfficial/)
