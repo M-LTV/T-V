@@ -1,0 +1,19 @@
+{
+"分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+"分类url":"http://www.98kpm.com/{cateId}/index{catePg}.html[http://www.98kpm.com/{cateId}/index.html]",
+"免嗅": "0",
+"筛选":"0",
+//"线路数组": "class=\"stui-pannel_head&&</div>",
+//"线路标题": "<h3>&&</h3>",
+"线路数组": "class=\"title\">&&/h3>",
+"线路标题": "/>&&<",
+"副标题":"class=\"pic-text text-right\">&&</span>",
+//"播放数组":"<ul class=\"stui-content__playlist&&</div>"
+"播放二次截取": "",
+"播放数组": "class=\"stui-content__playlist&&</ul>",
+"播放列表": "<a&&/a>",
+"播放标题": ">&&<",
+"播放链接": "href='&&'",
+"播放链接前缀": "http://www.98kpm.com"
+
+}

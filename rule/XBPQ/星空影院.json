@@ -1,0 +1,43 @@
+{   //星空影院
+"免嗅":"1",
+"数组":"class=\"fed-list-pics&&</li>",
+"图片": "original=\"&&"",
+"标题": "html\">&&</a><span",
+"副标题":"center\">&&</span></a><a",
+"播放数组":"class=\"stui-content__playlist&&</ul>",
+"分类":"电视剧$2#电影$HAO/1#动漫$HAO/4#综艺$HAO/3",
+"搜索url": "http://www.35ju.com/search.php?searchword={wd}",
+"分类url":"https://www.35ju.com/HAO/{cateId}.html"
+}
+
+
+
+/*
+"key": "csp_xBPQ_星空影院",
+"name": "🍓星空影院有问题",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{\"免嗅\":\"1\",
+\"数组\":\"class=\\\"fed-list-pics&&</li>\",
+\"图片\": \"original=\\\"&&\\\"\",
+\"标题\": \"html\\\">&&</a><span\",
+
+\"副标题\":\"center\\\">&&</span></a><a\",
+
+\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",
+
+
+     
+  
+
+
+\"分类\":\"电视剧$2#电影$HAO/1#动漫$HAO/4#综艺$HAO/3\",
+\"搜索url\": \"http://www.35ju.com/search.php?searchword={wd}\",
+\"分类url\":\"https://www.35ju.com/HAO/{cateId}.html\"}",
+"jar": "clan://xBPQ.jar"},
+有问题 卡在播放数组  那里了
+
+*/

@@ -1,0 +1,10 @@
+{   //vidhub
+"免嗅":"1",
+"数组": "class=\"module-item&&</div>",
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>",
+"播放数组":"class=\"module-play-list&&</div>",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+"分类url":"https://vidhub.top/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", 
+"筛选":"1"
+}

@@ -1,4 +1,3 @@
-
 {
 "站名": "饭团影视",
 "主页url": "https://www.fantuanhd.com",
@@ -32,7 +31,7 @@
 "播放标题": ">&&<",
 "播放链接": "href=\"&&\"",
 "播放链接前缀": "https://www.fantuanhd.com",
-"免嗅": "1",
+"免嗅": "0",
 "嗅探词":".m3u8",
 "过滤词":"",
 "播放请求头": "",
@@ -54,37 +53,3 @@
 "分类标题": ">&&</a>",
 "分类ID": "href=\"&&.html"
 }
-/*
-
-{  //饭团影视 
-"免嗅":"1",
-"播放数组":"class=\"stui-play__list&&</div>",
-"分类url":"https://www.fantuanhd.com/show/id-{cateId}/page/{catePg}.html",
-
-
-"分类":"电影$20#电视剧$21#综艺$22#动漫$23#纪录片$24#动画片$25",
-
-"状态":"类型：&&</p>",
-"导演": "导演：&&</p>",
-"主演": "主演：&&</p>",
-"简介": "style=\"display: none;\">&&</div>",
-"标题": "title=\"&&\"",
-"副标题": "class=\"pic-text text-right\">&&</span>"
-}
-*/
-/*
-{
-"作者":"张弘",
-"站名":"饭团影院",
-"主页url":"https://www.fantuantva.com",
-"热门推荐":"1",
-"免嗅":"1",
-"副标题":"<p class=\"tc_wz\">&&</p>",
-"线路二次截取": "con_c2_title swiper-wrapper&&</ul>",
-"线路数组": "<a href=\"javascript:void(0);\"&&/a>",
-"播放数组":"class=\"con_c2_list\">&&</ul>",
-"搜索后缀": "/v/",
-"分类url":"https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html",
-"年份":"2000-2022","筛选":"1"
-}
-*/

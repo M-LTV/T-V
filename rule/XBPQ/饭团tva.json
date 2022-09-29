@@ -1,4 +1,4 @@
-
+/*
 {
 "站名": "饭团影视",
 "主页url": "https://www.fantuanhd.com",
@@ -53,7 +53,7 @@
 "分类数组": "<li>&&</li>",
 "分类标题": ">&&</a>",
 "分类ID": "href=\"&&.html"
-}
+}*/
 /*
 
 {  //饭团影视 
@@ -72,7 +72,7 @@
 "副标题": "class=\"pic-text text-right\">&&</span>"
 }
 */
-/*
+
 {
 "作者":"张弘",
 "站名":"饭团影院",
@@ -87,4 +87,3 @@
 "分类url":"https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html",
 "年份":"2000-2022","筛选":"1"
 }
-*/

@@ -1,0 +1,30 @@
+{   //鸭奈飞
+"免嗅":"1",
+"播放标题":"span>&&<",
+"副标题":"class=\"module-item-note\">&&</div>",
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>",
+"类型":"",
+"播放数组":"class=\"module-play-list-content&&</div>",
+"分类url":"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+}
+
+
+
+
+/*
+{
+    "key": "csp_xBPQ_鸭奈飞",
+    "name": "🦆鸭奈飞",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",
+\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
+\"线路标题\": \"<span>&&</span>\",
+\"类型\":\"clan://TVBox/筛选/鸭奈飞筛选.json\",
+\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
+*/
