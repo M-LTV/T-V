@@ -1,2 +1,0 @@
-- xbiuxbiu站源配置文件
-- 兼容tvbox各个版本
