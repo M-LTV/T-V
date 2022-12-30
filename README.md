@@ -1,11 +1,13 @@
 # 🎊🎊TVBOXOSC开源项目APP及相关配置接口等等🎊🎊
 ## 蜂蜜的影视APP
 - [PY 正式版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/leanback-python.apk)
-- [普通正式版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/leanback.apk)
+- [普通正式版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/leanback-java.apk)
 - [PY 测试版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/leanback-python.apk)
-- [普通测试版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/leanback.apk)
+- [普通测试版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/leanback-java.apk)
 - [4.2-4.4专用PY正式版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/kitkat/release/leanback.apk)
-## TVBox-o0HalfLife0o 
+- [蜂蜜仓正规接口](https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json)
+- [蜂蜜仓9+9接口](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json)
+## TVBox-o0HalfLife0o
 - [o0HalfLife0o仓库](https://github.com/o0HalfLife0o?tab=repositories)
 - Tvbox-2
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/TVBoxOSC)
