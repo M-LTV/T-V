@@ -9,7 +9,7 @@
 - [4.2-4.4专用PY正式版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/kitkat/release/leanback.apk)
 --  [4.2-.4.4专用版更新详情](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/kitkat/release/leanback.json)
 - [蜂蜜仓正规接口](https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json)
-- [蜂蜜仓9+9接口](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json)
+-- [9+9接口](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json)
 ## TVBox-o0HalfLife0o
 - [o0HalfLife0o仓库](https://github.com/o0HalfLife0o?tab=repositories)
 - Tvbox-2
