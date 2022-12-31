@@ -2,8 +2,10 @@
 ## 蜂蜜的影视APP
 - [PY 正式版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/leanback-python.apk)
 - [普通正式版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/release/release/leanback-java.apk)
+### [![正式版更新详情]()](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/leanback-release.json)
 - [PY 测试版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/leanback-python.apk)
 - [普通测试版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/leanback-java.apk)
+### [![测试版更新详情]()](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/dev/release/leanback-dev.json)
 - [4.2-4.4专用PY正式版](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/kitkat/release/leanback.apk)
 - [蜂蜜仓正规接口](https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json)
 - [蜂蜜仓9+9接口](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json)
