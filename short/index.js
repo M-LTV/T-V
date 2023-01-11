@@ -9,8 +9,8 @@ const config = {
   const html404 = `<!DOCTYPE html>
   <body>
     <h1>404 Not Found.</h1>
-    <p>The url you visit is not found.</p>
-    <p> <a href="https://github.com/crazypeace/Url-Shorten-Worker/" target="_self">Fork me on GitHub</a> </p>
+    <p>你走错路啦.请在地址后面加入password值方可正常访问</p>
+    <p> <a href="https://github.com/crazypeace/Url-Shorten-Worker/" target="_self">项目仓库</a> </p>
   </body>`
   
   let response_header={
@@ -100,7 +100,7 @@ const config = {
       if (config.custom_link && (req_customShortURL != "")){
         let is_exist=await LINKS.get(req_customShortURL)
         if (is_exist != null) {
-          return new Response(`{"status":500,"key":": Error: Custom shortURL existed."}`, {
+          return new Response(`{"status":500,"key":": 错误: 已存在自定义短网址，请重新输入短链字符"}`, {
             headers: response_header,
           })
         }else{
@@ -127,7 +127,7 @@ const config = {
         headers: response_header,
       })
       }else{
-        return new Response(`{"status":200,"key":": Error:Reach the KV write limitation."}`, {
+        return new Response(`{"status":200,"key":": 错误：已达到 KV 写入限制.请联系站长"}`, {
         headers: response_header,
       })}
     }else if(request.method === "OPTIONS"){  
