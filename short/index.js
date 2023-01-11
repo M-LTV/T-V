@@ -9,7 +9,7 @@ const config = {
   const html404 = `<!DOCTYPE html>
   <body>
     <h1>404 Not Found.</h1>
-    <p>你走错路啦.请在地址后面加入password值方可正常访问</p>
+    <p>你走错路啦！这里没有你的短链。请在地址后面加入password值即可定制自己的超短链哦！！</p>
     <p> <a href="https://github.com/crazypeace/Url-Shorten-Worker/" target="_self">项目仓库</a> </p>
   </body>`
   
