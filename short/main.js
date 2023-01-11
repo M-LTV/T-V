@@ -10,7 +10,7 @@ let res
     fetch(window.location.pathname, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ url: document.querySelector("#text").value, custom_shorturl: document.querySelector("#customs-shorturl").value })
+      body: JSON.stringify({ url: document.querySelector("#text").value })
     }).then(function(response) {
     return response.json();
   })
@@ -66,6 +66,6 @@ let res
   })
   console.log("https://github.com/xyTom/Url-Shorten-Worker/")
   let notice="Notice: This service is for demonstration purposes only and the generated short links will automatically expire after 24 hours."
-  if(window.location.host=="5it.me"){
+  if(window.location.host=="lnks.eu.org"){
     document.getElementById("notice").innerHTML=notice
   }
