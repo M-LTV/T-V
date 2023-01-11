@@ -1,3 +1,0 @@
-- 直播源文件
-- 适用于tvbox各版本和猫影视 需支持jar 读取类proxy
-- 适用于dipytv等各类直播APP
