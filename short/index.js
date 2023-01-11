@@ -26,7 +26,7 @@ const config = {
   }
   
   async function randomString(len) {
-    len = len || 4;
+    len = len || 4;                                 /****4为随机生成的短地址最长是四位****/
     let $chars = 'ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz2345678';    /****默认去掉了容易混淆的字符oOLl,9gq,Vv,Uu,I1****/
     let maxPos = $chars.length;
     let result = '';
