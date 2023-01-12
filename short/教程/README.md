@@ -5,7 +5,7 @@
 ##  2.点“创建服务”创建服务
 ![image](https://user-images.githubusercontent.com/23007737/212094540-37f62f68-6cad-4b47-bf96-01c203504f88.png)
 ##  3.“服务名称”可随意 然后点“创建服务”完成
-![image](https://user-images.githubusercontent.com/23007737/212094742-a3a92e2e-234b-45e7-a910-2d8d1759467e.png)
+![image](https://user-images.githubusercontent.com/23007737/212127464-4069ddd7-1292-4bf9-b264-7c476064525a.png)
 ##  4.点第1张图红圈 --- 点“KV”去创建KV空间
 ![image](https://user-images.githubusercontent.com/23007737/212094970-64e32da9-6bab-4fcd-ab18-c115fb7772b1.png)
 ##  5.点红圈去创建KV空间
@@ -25,7 +25,7 @@
 ##  12.”秘钥“填”password“  ”值“填”字符串“(可用字符串工具生成，这里以0000为例)  ---点”添加条目“
 ![image](https://user-images.githubusercontent.com/23007737/212098433-9c51e4cc-0f1c-433d-920e-b93916b81c38.png)
 ##  13.点左菜单栏顶上的”网站“  -----  没有站点的自己去添加（这里已添加好了），点选择的站点（这里是 ewwe.ml）
-![image](https://user-images.githubusercontent.com/23007737/212099121-fe8bb143-cc4d-4d28-9939-4e48448f49c4.png)
+![image](https://user-images.githubusercontent.com/23007737/212127610-0af11848-257e-432f-adc6-9e3909136f66.png)
 ##  14.点”DNS“
 ![image](https://user-images.githubusercontent.com/23007737/212099433-d77f3530-323d-4a70-93e5-fb33d5d174bb.png)
 ##  15.点”添加记录“
