@@ -5,7 +5,7 @@
 ##  2.点“创建服务”创建服务
 ![image](https://user-images.githubusercontent.com/23007737/212094540-37f62f68-6cad-4b47-bf96-01c203504f88.png)
 ##  3.“服务名称”可随意 然后点“创建服务”完成
-![image](https://user-images.githubusercontent.com/23007737/212128727-f5fb9d43-76c3-4c4f-88b6-f0092de064fa.png)
+![image](https://user-images.githubusercontent.com/23007737/212129555-26c1d4b8-bc99-4890-b96e-fa3c25bab5ea.png)
 ##  4.点第1张图红圈 --- 点“KV”去创建KV空间
 ![image](https://user-images.githubusercontent.com/23007737/212094970-64e32da9-6bab-4fcd-ab18-c115fb7772b1.png)
 ##  5.点红圈去创建KV空间
