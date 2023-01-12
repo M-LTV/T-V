@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/23007737/212094540-37f62f68-6cad-4b47-bf96-01c203504f88.png)
 ##  3.“服务名称”可随意 然后点“创建服务”完成
 ![image](https://user-images.githubusercontent.com/23007737/212094742-a3a92e2e-234b-45e7-a910-2d8d1759467e.png)
-##  4.点第一张图红圈后路下图 然后点“KV”去创建KV空间
+##  4.点第1张图红圈 --- 点“KV”去创建KV空间
 ![image](https://user-images.githubusercontent.com/23007737/212094970-64e32da9-6bab-4fcd-ab18-c115fb7772b1.png)
 ##  5.点红圈去创建KV空间
 ![image](https://user-images.githubusercontent.com/23007737/212095168-86545a16-4da4-45d1-8d1f-3b09a1e6de77.png)
@@ -18,21 +18,22 @@
 ![image](https://user-images.githubusercontent.com/23007737/212096353-4ab759ef-39dd-4a5c-9c68-c15381b8d09e.png)
 ## 9. 变量名称固定为“LINKS” -- kV命名空间选刚刚创建的那个KV空间名称  --- 点“保存并部署”
 ![image](https://user-images.githubusercontent.com/23007737/212096829-40080238-7fa7-4fc9-8537-8e899b01901a.png)
-##  10.点第7张图中的“快速部署”  ---  复制index.js中的内容替换下图的全部内容 ---点“保存并部署”
+##  10.点第7张图中的“快速部署”  ---  复制[index.js](https://m-ltv.github.io/T-V/short/index.js)中的内容替换下图的全部内容 ---点“保存并部署”
 ![image](https://user-images.githubusercontent.com/23007737/212097443-44df0dad-59ae-4408-b63e-8cb58bea4a7a.png)
 ##  11.点第4张图第“KV” ----找到刚刚创建的那个KV空间名称 --- 点其后面的“查看“”
 ![image](https://user-images.githubusercontent.com/23007737/212098055-15348f74-85dc-49f9-95de-7398fc94b0c1.png)
 ##  12.”秘钥“填”password“  ”值“填”字符串“(可用字符串工具生成，这里以0000为例)  ---点”添加条目“
 ![image](https://user-images.githubusercontent.com/23007737/212098433-9c51e4cc-0f1c-433d-920e-b93916b81c38.png)
-##  13.点第1张图中的”网站“  -----  没有站点的自己去添加（这里已添加好了），点选择的站点（这里是 ewwe.ml）
+##  13.点左菜单栏顶上的”网站“  -----  没有站点的自己去添加（这里已添加好了），点选择的站点（这里是 ewwe.ml）
 ![image](https://user-images.githubusercontent.com/23007737/212099121-fe8bb143-cc4d-4d28-9939-4e48448f49c4.png)
-##  14.点”DNS“ --- 点”添加记录“
+##  14.点”DNS“
 ![image](https://user-images.githubusercontent.com/23007737/212099433-d77f3530-323d-4a70-93e5-fb33d5d174bb.png)
-##  15.”名称“可随意（使用一级填'@')  "ipv4地址”可随意（需按照 8.8.8.8 格式即可）---点“保存”
+##  15.点”添加记录“
 ![image](https://user-images.githubusercontent.com/23007737/212099892-cb3a5add-42db-46d4-8b2d-dcba1d57f53d.png)
-##  16.点左边的“Workers路由” ---
+##  16.”名称“可随意（使用一级填'@')  "ipv4地址”可随意（需按照 8.8.8.8 格式即可）---点“保存”
 ![image](https://user-images.githubusercontent.com/23007737/212100312-c25df5bf-b100-42b9-b112-221e6475eebf.png)
-##  17.“路由”填刚才DNS添加的记录（这里是”a“记录 ”ewwe.ml“站点 ）为”a.ewwe.ml/*“
+##  17.点左边的“Workers路由” 
 ![image](https://user-images.githubusercontent.com/23007737/212100658-46389207-06b8-4609-b6cb-b159c3820c90.png)
-## 
+##  18.“路由”填刚才DNS添加的记录（这里是”a“记录 ”ewwe.ml“站点 ）为”a.ewwe.ml/*“
 ![image](https://user-images.githubusercontent.com/23007737/212100998-b324d170-e47b-48c5-beba-1ba4fc2bd423.png)
+# 所有部署完成 最后地址“a.ewwe.ml/0000”  不知0000是什么的 请往上翻看
