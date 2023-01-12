@@ -36,4 +36,4 @@
 ![image](https://user-images.githubusercontent.com/23007737/212100658-46389207-06b8-4609-b6cb-b159c3820c90.png)
 ##  18.“路由”填刚才DNS添加的记录（这里是”a“记录 ”ewwe.ml“站点 ）为”a.ewwe.ml/*“
 ![image](https://user-images.githubusercontent.com/23007737/212100998-b324d170-e47b-48c5-beba-1ba4fc2bd423.png)
-# 所有部署完成 最后地址“a.ewwe.ml/0000”  不知0000是什么的 请往上翻看
+# 所有部署完成 最后地址“[a.ewwe.ml/0000](http://a.ewwe.ml/0000)”  不知0000是什么的 请往上翻看
