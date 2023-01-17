@@ -1,12 +1,13 @@
+
 let res
   function shorturl() {
     if(document.querySelector("#text").value==""){
-        alert("地址不能为空!")
+        alert("Url cannot be empty!")
         return
     }
 
     document.getElementById("searchbtn").disabled=true;
-	document.getElementById("searchbtn").innerHTML='<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>请稍等...马上生成';
+	document.getElementById("searchbtn").innerHTML='<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>Please wait...';
     fetch(window.location.pathname, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -21,7 +22,7 @@ let res
     if(res.key!=="")
     document.getElementById("result").innerHTML=window.location.host+res.key;
     $('#exampleModal').modal('show')
-  }).catch(function(err){alert("未知错误 请重试!");
+  }).catch(function(err){alert("Unknow error. Please retry!");
   console.log(err);
   document.getElementById("searchbtn").disabled=false;
 	document.getElementById("searchbtn").innerHTML=' 点击生成';})
@@ -49,11 +50,11 @@ let res
         range.selectNode(target);
         window.getSelection().removeAllRanges();
         window.getSelection().addRange(range);
-        document.execCommand('复制');
+        document.execCommand('copy');
         window.getSelection().removeAllRanges();
-        console.log('复制成功')
+        console.log('Copy success')
     } catch (e) {
-        console.log('复制失败')
+        console.log('Copy error')
     }
 
     if (attr) {
