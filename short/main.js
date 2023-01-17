@@ -2,7 +2,7 @@
 let res
   function shorturl() {
     if(document.querySelector("#text").value==""){
-        alert("Url cannot be empty!")
+        alert("错误：长链地址不能为空，请重新输入!")
         return
     }
 
