@@ -22,7 +22,7 @@ let res
     if(res.key!=="")
     document.getElementById("result").innerHTML=window.location.host+res.key;
     $('#exampleModal').modal('show')
-  }).catch(function(err){alert("错误：该短址已存在，请重新输入！！");
+  }).catch(function(err){alert("未知错误 请重试！！");
   console.log(err);
   document.getElementById("searchbtn").disabled=false;
 	document.getElementById("searchbtn").innerHTML=' 点击生成';})
