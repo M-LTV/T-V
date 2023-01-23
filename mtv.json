@@ -1,4 +1,4 @@
-{  /* 本地接口  clan://localhost/00000/tvbox/配置/mtv/mtv.json
+{     /* 本地接口  clan://localhost/00000/tvbox/配置/mtv/mtv.json
     點播欄位
   searchable：搜索    (0：關閉、1：啟用)  
   filterable：篩選    (0：關閉、1：啟用)  
@@ -68,13 +68,13 @@
 
 {"key": "Live","name": "蜂蜜∰转直播","type": 3,"api": "csp_Live","searchable": 0,"filterable": 0,"ext": "1000","jar":"https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"},  //自动转到直播功能 ext地址为数值(等待时间)  数值单位毫秒 1000即1秒
 {"key":"豆瓣","name":"T4(桉桉)∰豆瓣熱搜","type":"4","api":"https://t4.secan.icu/vod?douban=xxxxx","searchable":"1","quickSearch":"1","filterable":"1","ext":""},
-{"key": "csp_XYQ_lu1","name":"肥猫∰电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://我不是.肥猫.love:63/ningmeng.json","jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
+/*{"key": "csp_XYQ_lu1","name":"肥猫∰电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://我不是.肥猫.love:63/ningmeng.json","jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
 {"key": "csp_BuLei","name":"肥猫∰布雷影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
 {"key":"哔滴影视","name":"肥猫∰哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
 {"key" :"drpy_js_蜻蜓FM","name" : "肥猫∰蜻蜓收音","type" : 3,"api" :"http://w.g9.pub:66/381203888/lib/drpy.min.js","ext":"http://w.g9.pub:66/381203888/js/蜻蜓FM.js","jar":"http://我不是.肥猫.love:63/Jar/JS.jar;md5;74A24673CC1587FA87EC2D1F43BFA4CB"},
 {"key":"Bttoo","name":"肥猫∰Btto影视","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
 {"key":"XBPQ_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影视.json","jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
-{"key":"XBPQ_fant2","name":"🍙┃饭团┃影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影院.json","jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
+{"key":"XBPQ_fant2","name":"🍙┃饭团┃影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影院.json","jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},*/
      { "key": "FM∰櫻花",
       "name": "蜂蜜∰櫻花动漫",
       "type": 3,
@@ -466,6 +466,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"入侵请报警","type":1,"url":"https://jiexi.parses.repl.co/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"想啥呢 傻逼","type":1,"url":"https://pandora.box6.repl.co/jx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 //{"name":"Bt5v","type":1,"url":"proxy://do=jx&name=bt5v&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 //{"name":"PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
