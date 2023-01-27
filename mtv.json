@@ -14,6 +14,7 @@
 "spider":"img+http://hutool.ml/jar",
 //直播源参数
 "lives": [    //多直播源格式  暂时只有蜂蜜的影视支持
+{"name":"mv","type":0,"url":"http://www.lytv.ga/live/mv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"DIY","type":0,"url":"http://lytv.ga/live","logo":"https://epg.112114.xyz/logo/{name}.png","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","ua":""},
 {"name":"严选1(肥羊)","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","switchable": 1,"playerType": 1,"boot": true},
 {"name":"严选02(肥羊)","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -50,8 +51,8 @@
 {"name":"亚洲","type":0,"url":"http://ftp6490599.host116.sanfengyun.cn/ASIA.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"測試","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/lptv800/lptv800.github.io/master/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","boot":true},
 {"name":"境外m3u","type":0,"url":"https://m3url.ru/tv_channels_BzvvK9ZyY7_plus.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"mv","type":0,"url":"http://www.lytv.ga/live/mv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"捲毛鼠","type":0,"url":"https://9000-9a3ec068825e40f7a53c4fc9d7582565.patr.cloud/jmsytball.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
