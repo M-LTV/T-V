@@ -10,33 +10,33 @@
       "type_id": "雷州歌曲"
     },
     {
-      "type_name": "儿童启蒙故事",
-      "type_id": "儿童启蒙故事"
+      "type_name": "halo搭建",
+      "type_id": "halo搭建"
     },
     {
-      "type_name": "儿童英语启蒙",
-      "type_id": "儿童英语启蒙"
+      "type_name": "goorm",
+      "type_id": "goorm"
     },
    {
-      "type_name": "儿童歌曲",
-      "type_id": "儿童歌曲"
+      "type_name": "replit",
+      "type_id": "replit"
     },
 {
-      "type_name": "儿童绘画",
-      "type_id": "儿童绘画"
+      "type_name": "CF",
+      "type_id": "cloudflare"
     },
     {
-      "type_name": "睡前故事",
-      "type_id": "睡前故事"
+      "type_name": "action",
+      "type_id": "action"
     },
 
 {
-      "type_name": "儿童动画",
-      "type_id": "儿童动画"
+      "type_name": "docker",
+      "type_id": "docker"
     },
 {
-      "type_name": "儿童音乐",
-      "type_id": "儿童音乐"
+      "type_name": "tg代理",
+      "type_id": "tg代理"
     },
     {
       "type_name": "儿童安全教育",
@@ -126,7 +126,7 @@
     ],
 
    
-"儿童启蒙故事": [
+"halo搭建": [
   
       {
         "key": "duration",
@@ -155,7 +155,7 @@
         ]
       }
     ],
-    "儿童英语启蒙": [
+    "goorm": [
   
       {
         "key": "duration",
@@ -184,7 +184,7 @@
         ]
       }
     ],
-    "儿童歌曲": [
+    "replit": [
   
       {
         "key": "duration",
@@ -214,7 +214,7 @@
       }
     ],
     
-    "儿童绘画": [
+    "cloudflare": [
   
       {
         "key": "duration",
@@ -243,7 +243,7 @@
         ]
       }
     ],
-    "睡前故事": [
+    "action": [
   
       {
         "key": "duration",
@@ -272,7 +272,7 @@
         ]
       }
     ],
-    "儿童动画": [
+    "docker": [
   
       {
         "key": "duration",
@@ -301,7 +301,7 @@
         ]
       }
     ],
-"儿童音乐": [
+"tg代理": [
   
       {
         "key": "duration",
