@@ -67,19 +67,19 @@
 ],
       //视频站点源
 "sites":[
-        //👇👇测试源(网络)👇👇    https://m-ltv.github.io/T-V/
+        //👇👇测试源(网络)👇👇    https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/
        //👇👇测试源(本地)👇👇    clan://00000/tvbox/配置/rule/
 //推荐站源(👇👇👇)
 
 {"key": "Live","name": "蜂蜜∰转直播","type": 3,"api": "csp_Live","searchable": 0,"filterable": 0,"ext": "1000","jar":"https://raw.iqiq.io/FongMi/CatVodSpider/main/jar/custom_spider.jar"},  //自动转到直播功能 ext地址为数值(等待时间)  数值单位毫秒 1000即1秒
 {"key":"豆瓣","name":"T4(桉桉)∰豆瓣熱搜","type":"4","api":"https://t4.secan.icu/vod?douban=xxxxx","searchable":"1","quickSearch":"1","filterable":"1","ext":""},
-/*{"key": "csp_XYQ_lu1","name":"肥猫∰电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://我不是.肥猫.love:63/ningmeng.json","jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
-{"key": "csp_BuLei","name":"肥猫∰布雷影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
-{"key":"哔滴影视","name":"肥猫∰哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
+/*{"key": "csp_XYQ_lu1","name":"肥猫∰电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://我不是.肥猫.love:63/ningmeng.json","jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230118.jar"},
+{"key": "csp_BuLei","name":"肥猫∰布雷影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230118.jar"},
+{"key":"哔滴影视","name":"肥猫∰哔滴影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230118.jar"},
 {"key" :"drpy_js_蜻蜓FM","name" : "肥猫∰蜻蜓收音","type" : 3,"api" :"http://w.g9.pub:66/381203888/lib/drpy.min.js","ext":"http://w.g9.pub:66/381203888/js/蜻蜓FM.js","jar":"http://我不是.肥猫.love:63/Jar/JS.jar;md5;74A24673CC1587FA87EC2D1F43BFA4CB"},
-{"key":"Bttoo","name":"肥猫∰Btto影视","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
-{"key":"XBPQ_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影视.json","jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},
-{"key":"XBPQ_fant2","name":"🍙┃饭团┃影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影院.json","jar":"https://m-ltv.github.io/T-V/jar/肥猫230118.jar"},*/
+{"key":"Bttoo","name":"肥猫∰Btto影视","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230118.jar"},
+{"key":"XBPQ_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影视.json","jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230118.jar"},
+{"key":"XBPQ_fant2","name":"🍙┃饭团┃影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/饭团影院.json","jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230118.jar"},*/
      { "key": "FM∰櫻花",
       "name": "蜂蜜∰櫻花动漫",
       "type": 3,
@@ -154,18 +154,18 @@
 {"key":"fm盘挂Alist","name":"网盘∰掛載(蜂蜜)","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 {"key":"JS蜂蜜Alist","name":"DRPY∰雲載(蜂蜜)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 {"key":"Bili","name":"TS∰哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
-{"key":"FM-蜂蜜","name":"肥猫Bli∰蜂蜜","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
-{"key":"FM-计算机","name":"肥猫Bli∰计算机","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/哔哩计算机.json"},
-{"key":"FM-计算机教程","name":"肥猫Bli∰计算机教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/计算机教程.json"},
-{"key":"FM-软件","name":"肥猫Bli∰软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/软件教程.json"},
-{"key":"FM-学习园地","name":"肥猫Bli∰学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/学习园地.json"},
-{"key":"FM-家电维修","name":"肥猫Bli∰家电维修","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/家电维修.json"},
-{"key":"FM-儿童","name":"肥猫Bli∰儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/儿童.json"},
-{"key":"FM-DIY","name":"肥猫Bli∰DIY","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/DIY.json"},
-{"key":"FM-学前","name":"肥猫Bli∰学前课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/学前.json"},
-{"key":"FM-小学","name":"肥猫Bli∰小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/小学.json"},
-{"key":"FM-初中","name":"肥猫Bli∰初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/初中.json"},
-{"key":"FM-高中","name":"肥猫Bli∰高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/高中.json"},
+{"key":"FM-蜂蜜","name":"肥猫Bli∰蜂蜜","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
+{"key":"FM-计算机","name":"肥猫Bli∰计算机","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/哔哩计算机.json"},
+{"key":"FM-计算机教程","name":"肥猫Bli∰计算机教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/计算机教程.json"},
+{"key":"FM-软件","name":"肥猫Bli∰软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/软件教程.json"},
+{"key":"FM-学习园地","name":"肥猫Bli∰学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/学习园地.json"},
+{"key":"FM-家电维修","name":"肥猫Bli∰家电维修","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/家电维修.json"},
+{"key":"FM-儿童","name":"肥猫Bli∰儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/儿童.json"},
+{"key":"FM-DIY","name":"肥猫Bli∰DIY","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/DIY.json"},
+{"key":"FM-学前","name":"肥猫Bli∰学前课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/学前.json"},
+{"key":"FM-小学","name":"肥猫Bli∰小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/小学.json"},
+{"key":"FM-初中","name":"肥猫Bli∰初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/初中.json"},
+{"key":"FM-高中","name":"肥猫Bli∰高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/蜂蜜/高中.json"},
    //唐三长老源
     {"key":"世界杯","name":"TS∰一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Tian","name":"TS∰天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
@@ -199,32 +199,32 @@
     {"key":"push_agent","name":"TS∰推送","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
 /*   //自定义∰爬虫源(👇👇推荐)
 //{"key":"csp_Kuaikan","name":"DIY∰快看(推荐)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},   
-//{"key":"csp_Bd","name":"DIY∰📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/999.jar;md5;e787fc9c9771e21fda57374ef3b64a65"},
-//{"key":"csp_AppTT","name":"DIY∰🖼图图影视(推荐)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/gg0925.jar"},
+//{"key":"csp_Bd","name":"DIY∰📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/999.jar;md5;e787fc9c9771e21fda57374ef3b64a65"},
+//{"key":"csp_AppTT","name":"DIY∰🖼图图影视(推荐)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/gg0925.jar"},
 //{"key":"csp_Kunyu77","name":"DIY∰酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cs.jar"},
 //{"key":"csp_Lib","name":"DIY∰LIBVIO","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LiteApple","name":"DIY∰小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key":"厂长影视","name":"DIY∰厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
+{"key":"csp_LiteApple","name":"DIY∰小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key":"厂长影视","name":"DIY∰厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
 //{"key":"csp_Cokemv","name":"DIY∰Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"spider_IKan","name":"DIY∰爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-//{"key":"KanSJ_spider","name":"DIY∰看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://m-ltv.github.io/T-V/jar/1001.jar"},
-{"key":"Smdyy_spider","name":"DIY∰神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
+{"key":"spider_IKan","name":"DIY∰爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+//{"key":"KanSJ_spider","name":"DIY∰看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/1001.jar"},
+{"key":"Smdyy_spider","name":"DIY∰神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
 //{"key":"Tkys","name":"DIY∰天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"追剧喵","name":"DIY∰追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key":"Lezhu_spider","name":"DIY∰乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key":"csp_Wmkk","name":"DIY∰完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key":"csp_Bttoo","name":"DIY∰两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key":"csp_Zxzj","name":"DIY∰在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
+{"key":"追剧喵","name":"DIY∰追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key":"Lezhu_spider","name":"DIY∰乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key":"csp_Wmkk","name":"DIY∰完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key":"csp_Bttoo","name":"DIY∰两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key":"csp_Zxzj","name":"DIY∰在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
 //{"key":"csp_Auete","name":"DIY∰Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_EEEDY","name":"DIY∰3E/飘花电影>(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key":"mjxq_spider","name":"DIY∰美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
+{"key":"csp_EEEDY","name":"DIY∰3E/飘花电影>(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key":"mjxq_spider","name":"DIY∰美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
 //{"key":"csp_Ddrk","name":"DIY∰低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_Dy555","name":"DIY∰555影院","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-//{"key": "csp_SP293","name":"DIY∰293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://m-ltv.github.io/T-V/jar/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},
-{"key": "剧荒TV（SP）","name": "DIY∰剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key":"Nfyun","name":"DIY∰Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key":"csp_Anime1","name": "DIY∰动漫频道","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
-{"key": "Yj1322","name": "DIY∰JustLive直播间","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://m-ltv.github.io/T-V/jar/0926.jar"},
+{"key": "csp_Dy555","name":"DIY∰555影院","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+//{"key": "csp_SP293","name":"DIY∰293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"},
+{"key": "剧荒TV（SP）","name": "DIY∰剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key":"Nfyun","name":"DIY∰Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key":"csp_Anime1","name": "DIY∰动漫频道","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
+{"key": "Yj1322","name": "DIY∰JustLive直播间","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/0926.jar"},
 //{"key": "bdys","name": "DIY∰哔嘀(磁力测试XP)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/hongdeng98/TVBox/raw/branch/main/XP/bdys.json"},
 */
 
@@ -236,12 +236,12 @@
 //{"key":"Nbys","name":"DIY∰Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 
    //Py∰爬虫源(👇👇推荐)   推荐py接口https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json  创艺站源👉https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cyys.py
-//{"key": "py_czspp","name": "Py∰厂长(需APP支持)","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://m-ltv.github.io/T-V/py/py_czspp.py"},
+//{"key": "py_czspp","name": "Py∰厂长(需APP支持)","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/py/py_czspp.py"},
 {"key": "py_一席","name": "Py∰一席(需APP支持)","type": 3,"api": "py_一席","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan:///00000/tvbox/配置/py/一席.py"},
-{"key": "py_cctv","name": "Py∰央视(需APP支持)","type": 3,"api": "py_央视","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://m-ltv.github.io/T-V/py/py_cctv_full.py"},
-{"key": "py_cyys","name": "Py∰创艺(需APP支持)","type": 3,"api": "py_cyys","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://m-ltv.github.io/T-V/py/py_cyys.py"},
-//{"key": "py_bilibili","name": "Py∰哔哩(需APP支持)","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://m-ltv.github.io/T-V/py/py_bilibili.py"},
-//{"key": "py_bli","name": "Py∰哔(需APP支持)","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://m-ltv.github.io/T-V/py/py_bil.py"},
+{"key": "py_cctv","name": "Py∰央视(需APP支持)","type": 3,"api": "py_央视","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/py/py_cctv_full.py"},
+{"key": "py_cyys","name": "Py∰创艺(需APP支持)","type": 3,"api": "py_cyys","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/py/py_cyys.py"},
+//{"key": "py_bilibili","name": "Py∰哔哩(需APP支持)","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/py/py_bilibili.py"},
+//{"key": "py_bli","name": "Py∰哔(需APP支持)","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/py/py_bil.py"},
 
   //DRPY爬虫支持js站源 
 {"key":"DRPY∰蜥蜴影视","name":"DRPY∰蜥蜴影视(需APP支持)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蜥蜴影视.js"},
@@ -457,14 +457,14 @@
 {"key": "Bili_kt","name": "哔哩∰学生课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://lqinyli.github.io/diver88//TV/BILI/哔哩课堂.json"},
 {"key": "Bili_jsj","name": "哔哩∰计算机编程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "clan://00000/tvbox/配置/ext/哔哩计算机.json"},
      //其他哔哩源
-{"key":"一级造价师","name":"哔哩∰造价师","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m-ltv.github.io/T-V/ext/一级造价师.json"},
-{"key":"考证考公","name":"哔哩∰考证考公","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m-ltv.github.io/T-V/ext/考证考公.json"},
+{"key":"一级造价师","name":"哔哩∰造价师","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/一级造价师.json"},
+{"key":"考证考公","name":"哔哩∰考证考公","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/ext/考证考公.json"},
 {"key": "Bili_tc","name": "哔哩∰套餐ʷ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://lqinyli.github.io/diver88//TV/BILI/哔哩套餐.json"},
 {"key": "Bili_ych","name": "哔哩∰演唱会ʷ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://lqinyli.github.io/diver88//TV/BILI/哔哩演唱会.json"},
 {"key": "Bili_xq","name": "哔哩∰戏曲ʷ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://lqinyli.github.io/diver88//TV/BILI/哔哩戏曲.json"},
 */
 //{"key":"push_agent","name":"DIY∰推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key": "LocalFile_spider","name": "DIY∰本地文件(仅支持视频）","type": 3,"api": "csp_LocalFile","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://m-ltv.github.io/T-V/jar/1001.jar"}
+{"key": "LocalFile_spider","name": "DIY∰本地文件(仅支持视频）","type": 3,"api": "csp_LocalFile","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/1001.jar"}
 ],
 //視頻解析接口
 "parses":[
