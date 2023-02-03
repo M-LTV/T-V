@@ -11,16 +11,19 @@
   boot：是否自動開啟 
   playerType：播放器  */
 //视频站点爬虫
-"spider":"img+http://hutool.ml/jar",
+"spider":"img+http://lytv.ga/jar",
 //直播源参数
 "lives": [    //多直播源格式  暂时只有蜂蜜的影视支持
 //{"name":"本地mv","type":0,"url":"./mv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"mv","type":0,"url":"http://www.lytv.ga/live/mv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+//{"name":"mv","type":0,"url":"http://www.lytv.ga/live/mv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"DIY","type":0,"url":"http://lytv.ga/live","logo":"https://epg.112114.xyz/logo/{name}.png","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","ua":""},
 {"name":"严选1(肥羊)","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","switchable": 1,"playerType": 1,"boot": true},
 {"name":"严选02(肥羊)","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"桉桉百事通","type":0,"url":"https://caddy.dovxi.repl.co/share/bestv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"肥羊百事通","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"百事通(桉桉私服)","type":0,"url":"https://t4.secan.icu/live/bestv.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+//{"name":"桉桉百事通","type":0,"url":"https://caddy.dovxi.repl.co/share/bestv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"百事通(肥羊)","type":0,"url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"谷豆(肥羊)","type":0,"url":"https://telegram-feiyangdigital.v1.mk/gudou.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"爱尚(肥羊)","type":0,"url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"肥羊4k/8k","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TW","type":0,"url":"https://jackson0829.github.io/TW.txt","logo":"","epg":"http://epg.51zmt.top:8000/e.xml","ua":""},
 {"name":"蜂蜜","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -52,10 +55,9 @@
 {"name":"亚洲","type":0,"url":"http://ftp6490599.host116.sanfengyun.cn/ASIA.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"測試","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/lptv800/lptv800.github.io/master/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","boot":true},
 {"name":"境外m3u","type":0,"url":"https://m3url.ru/tv_channels_BzvvK9ZyY7_plus.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"mv","type":0,"url":"http://www.lytv.ga/live/mv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"直播测试","type":0,"url":"./直播测试.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"捲毛鼠","type":0,"url":"https://9000-9a3ec068825e40f7a53c4fc9d7582565.patr.cloud/jmsytball.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"湛江酒店","type":0,"url":"http://www.lytv.ga/live/zjjd.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"","type":0,"url":"","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
@@ -150,7 +152,7 @@
 {"key":"JS*Alist","name":"DRPY∰掛載","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ftp6490599.host116.sanfengyun.cn/alist.json"},
 {"key":"fm盘挂Alist","name":"网盘∰掛載(蜂蜜)","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 {"key":"JS蜂蜜Alist","name":"DRPY∰雲載(蜂蜜)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
-{"key":"Bili","name":"TS∰哔哩","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
+{"key":"Bili","name":"TS∰哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
 {"key":"FM-蜂蜜","name":"肥猫Bli∰蜂蜜","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
 {"key":"FM-计算机","name":"肥猫Bli∰计算机","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/哔哩计算机.json"},
 {"key":"FM-计算机教程","name":"肥猫Bli∰计算机教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://m-ltv.github.io/T-V/jar/肥猫230114.jar","ext":"https://m-ltv.github.io/T-V/ext/蜂蜜/计算机教程.json"},
