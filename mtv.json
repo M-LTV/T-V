@@ -26,7 +26,7 @@
 //{"name":"本地mv","type":0,"url":"./mv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"mv","type":0,"url":"http://www.lytv.ga/live/mv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"DIY","type":0,"url":"http://lytv.ga/live","logo":"https://epg.112114.xyz/logo/{name}.png","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","ua":""},
-{"name":"严选1(肥羊)","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","switchable": 1,"playerType": 1,"boot": true},
+{"name":"严选1(肥羊)","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","switchable": 1,"playerType": 1},
 {"name":"严选02(肥羊)","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"百事通(桉桉私服)","type":0,"url":"https://t4.secan.icu/live/bestv.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"桉桉百事通","type":0,"url":"https://caddy.dovxi.repl.co/share/bestv.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -71,7 +71,7 @@
 {"name":"湛江酒店","type":0,"url":"http://www.lytv.ga/live/zjjd.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"愛尚","type":0,"url":"http://lytv.ga/aishang","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"百事通","type":0,"url":"http://lytv.ga/bestv","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"愛尚∞電信","type":0,"url":"http://xp.lytv.ml/ais.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"愛尚∞電信","type":0,"url":"http://xp.lytv.ml/ais.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","boot": true},
 {"name":"油管","type":0,"url":"https://youtube.zpzone.repl.co/lives.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
       //视频站点源
