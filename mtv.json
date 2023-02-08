@@ -119,7 +119,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://我不是.肥猫.love:63/token.php"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
     },
     {
       "key": "FM∰易搜",
@@ -128,7 +128,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://我不是.肥猫.love:63/token.php"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
     },
     {
       "key": "FM∰盤搜",
@@ -137,7 +137,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://我不是.肥猫.love:63/token.php"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
     },
     {
       "key": "FM∰UP雲搜",
@@ -146,7 +146,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://我不是.肥猫.love:63/token.php"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
     },
     {
       "key": "FM∰找資源",
@@ -156,7 +156,7 @@
       
       "searchable": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://我不是.肥猫.love:63/token.php"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
     },
 {"key":"盘挂Alist","name":"网盘∰掛載","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ftp6490599.host116.sanfengyun.cn/alist.json"},
 {"key":"JS*Alist","name":"DRPY∰掛載","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ftp6490599.host116.sanfengyun.cn/alist.json"},
@@ -196,16 +196,16 @@
     {"key":"Cokemv","name":"TS∰可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
     {"key":"LiteApple","name":"TS∰苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
     {"key":"SP360","name":"TS∰SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-    {"key":"Gitcafe","name":"TS∰纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
-    {"key":"Upso","name":"TS∰云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+    {"key":"Gitcafe","name":"TS∰纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
+    {"key":"Upso","name":"TS∰云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
     {"key":"Lib","name":"TS∰Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"TS∰555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
     {"key":"Xiaoh","name":"TS∰Xiaoh","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-    {"key":"Zhaozy","name":"TS∰资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
-    {"key":"YiSo","name":"TS∰易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
-    {"key":"AliPS","name":"TS∰盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+    {"key":"Zhaozy","name":"TS∰资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
+    {"key":"YiSo","name":"TS∰易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
+    {"key":"AliPS","name":"TS∰盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
     {"key":"Zxzj","name":"TS∰在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-    {"key":"push_agent","name":"TS∰推送","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+    {"key":"push_agent","name":"TS∰推送","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
 /*   //自定义∰爬虫源(👇👇推荐)
 //{"key":"csp_Kuaikan","name":"DIY∰快看(推荐)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},   
 //{"key":"csp_Bd","name":"DIY∰📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/999.jar;md5;e787fc9c9771e21fda57374ef3b64a65"},
@@ -480,7 +480,8 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"Q1","type":1,"url":"http://192.168.0.201:9908/jx/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+//{"name":"Q1","type":1,"url":"http://192.168.0.201:9908/jx/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+{"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"flag":["qq","腾讯"],"header":{"User-Agent":""}}},
 //{"name":"想啥呢 傻逼","type":1,"url":"https://pandora.box6.repl.co/jx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 //{"name":"Bt5v","type":1,"url":"proxy://do=jx&name=bt5v&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 //{"name":"PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
