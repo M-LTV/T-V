@@ -1,4 +1,5 @@
-{     /* 本地接口  clan://localhost/00000/tvbox/配置/mtv/mtv.json
+{   
+  /* 本地接口  clan://localhost/00000/tvbox/配置/mtv/mtv.json
     點播欄位
   searchable：搜索    (0：關閉   1：啟用)  
   filterable：篩選    (0：關閉   1：啟用)  
