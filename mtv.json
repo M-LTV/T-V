@@ -70,9 +70,9 @@
 
 {"name":"捲毛鼠","type":0,"url":"https://9000-9a3ec068825e40f7a53c4fc9d7582565.patr.cloud/jmsytball.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"湛江酒店","type":0,"url":"http://www.lytv.ga/live/zjjd.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"愛尚","type":0,"url":"http://lytv.ga/aishang","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"源享家Cyril","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IPTV_FREE/live.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"百事通","type":0,"url":"http://lytv.ga/bestv","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"愛尚∞電信","type":0,"url":"https://php.tv73.repl.co/ais.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"愛尚∞電信","type":0,"url":"https://php.tv73.repl.co/ais.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"油管","type":0,"url":"https://youtube.zpzone.repl.co/lives.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
       //视频站点源
@@ -120,7 +120,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://81.68.89.191:16888/json/token.txt"
     },
     {
       "key": "FM∰易搜",
@@ -129,7 +129,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://81.68.89.191:16888/json/token.txt"
     },
     {
       "key": "FM∰盤搜",
@@ -138,7 +138,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://81.68.89.191:16888/json/token.txt"
     },
     {
       "key": "FM∰UP雲搜",
@@ -147,7 +147,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://81.68.89.191:16888/json/token.txt"
     },
     {
       "key": "FM∰找資源",
@@ -157,7 +157,7 @@
       
       "searchable": 1,
       "filterable": 0,
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://lytv.ga/alikey"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext": "http://81.68.89.191:16888/json/token.txt"
     },
 {"key":"盘挂Alist","name":"网盘∰掛載","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ftp6490599.host116.sanfengyun.cn/alist.json"},
 {"key":"JS*Alist","name":"DRPY∰掛載","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ftp6490599.host116.sanfengyun.cn/alist.json"},
@@ -197,16 +197,16 @@
     {"key":"Cokemv","name":"TS∰可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
     {"key":"LiteApple","name":"TS∰苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
     {"key":"SP360","name":"TS∰SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-    {"key":"Gitcafe","name":"TS∰纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
-    {"key":"Upso","name":"TS∰云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
+    {"key":"Gitcafe","name":"TS∰纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://81.68.89.191:16888/json/token.txt"},
+    {"key":"Upso","name":"TS∰云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://81.68.89.191:16888/json/token.txt"},
     {"key":"Lib","name":"TS∰Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"TS∰555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
     {"key":"Xiaoh","name":"TS∰Xiaoh","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-    {"key":"Zhaozy","name":"TS∰资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
-    {"key":"YiSo","name":"TS∰易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
-    {"key":"AliPS","name":"TS∰盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
+    {"key":"Zhaozy","name":"TS∰资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://81.68.89.191:16888/json/token.txt"},
+    {"key":"YiSo","name":"TS∰易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://81.68.89.191:16888/json/token.txt"},
+    {"key":"AliPS","name":"TS∰盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://81.68.89.191:16888/json/token.txt"},
     {"key":"Zxzj","name":"TS∰在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-    {"key":"push_agent","name":"TS∰推送","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://lytv.ga/alikey"},
+    {"key":"push_agent","name":"TS∰推送","type":"3","api":"csp_Push","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://81.68.89.191:16888/json/token.txt"},
 /*   //自定义∰爬虫源(👇👇推荐)
 //{"key":"csp_Kuaikan","name":"DIY∰快看(推荐)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},   
 //{"key":"csp_Bd","name":"DIY∰📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/M-LTV/T-V/raw/ewwe/jar/999.jar;md5;e787fc9c9771e21fda57374ef3b64a65"},
